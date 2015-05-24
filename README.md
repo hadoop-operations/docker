@@ -1,9 +1,9 @@
-= Hadoop Operations - Docker Source
+# Hadoop Operations - Docker Source
 
 This repository contains companion source code to the book Hadoop Operations
 available from O'Reilly Media.
 
-== License
+## License
 
 Unless otherwise indicated, all source code in this repository is distributed
 under the Apache Software License version 2.0. You may obtain a copy of the
