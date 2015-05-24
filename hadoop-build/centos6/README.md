@@ -14,7 +14,7 @@ mounted within the container. This example assumes the Hadoop 2.6.0 source
 is unpacked in the current working directory.
 
 ```sh
-$ docker run -it -v `pwd`/hadoop-2.6.0-src:/hadoop-src esammer/hadoop-operations:hadoop-build
+$ docker run -it -v `pwd`/hadoop-2.6.0-src:/hadoop-src esammer/hadoop-operations:hadoop-build-centos6
 ```
 
 Build Hadoop from within the container. Since the source directory is mounted
